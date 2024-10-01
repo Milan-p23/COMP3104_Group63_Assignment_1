@@ -16,3 +16,12 @@ from various backgrounds can thrive. To support their academic and career journe
 offers a comprehensive range of student services, including academic advising, career counseling, tutoring, 
 and mental health resources. These services are designed to help students succeed academically and 
 personally.
+
+George Brown College is particularly renowned for its programs in technology, health sciences, and 
+business, which are regularly updated to reflect industry trends and employer needs. The college has 
+received accolades for its innovative approach to education and its commitment to student success.
+
+Students benefit from access to state-of-the-art facilities, including specialized labs, simulation 
+centers, and technology-enabled classrooms that enhance their learning experiences. The college also 
+offers extracurricular activities, clubs, and networking events, encouraging students to engage with 
+peers and industry professionals.
