@@ -25,3 +25,7 @@ To ensure the curriculum remains aligned with industry demands, guest speakers f
 Learning Resources:
 Students will have access to a wide range of learning resources, including online tutorials, case studies, and a curated selection of articles and books that focus on DevOps principles. Additionally, the course will incorporate hands-on lab sessions where students can practice using the tools and techniques discussed 
 in class, reinforcing their learning through practical application.
+
+Conclusion
+In summary, COMP 3104 - DevOps offers a comprehensive learning experience that prepares students for successful careers in software development and operations. By integrating theoretical knowledge with practical application, students will emerge with a robust skill set that enhances their employability and empowers them 
+to contribute to the evolution of DevOps practices in the tech industry.
