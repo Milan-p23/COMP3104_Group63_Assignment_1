@@ -20,3 +20,6 @@ how to implement a proactive approach to issue resolution and system optimizatio
 By the end of the course, students will have a comprehensive understanding of DevOps principles and be equipped with the skills necessary to contribute effectively to modern software development teams. They will understand the importance of 
 collaboration, automation, and continuous feedback in meeting the demands of rapid delivery and innovation in today's technology landscape. Ultimately, COMP 3104 prepares students not only to implement DevOps practices but also to become champions 
 of change within their organizations, driving transformation and efficiency in software development and operations.
+
+--Parthkumar Patel
+--Student ID: 101399114
