@@ -38,3 +38,10 @@ They also learn about containerization using Docker and Kubernetes.
 Additionally, students learn about monitoring and logging using tools like Prometheus and ELK.
 The course covers various DevOps tools and practices, including automated testing, automated deployment, and feedback and
 improvement.
+
+
+DevOps practices allow developers to ship reliable software faster, making it a crucial skill for modern developers.
+By understanding DevOps principles and practices, developers can improve collaboration, automation, continuous improvement, feedback,
+monitoring, and security in their software development process.
+In COMP 3104, students gain hands-on experience with DevOps tools and practices, preparing them
+for a career in software development and deployment.
