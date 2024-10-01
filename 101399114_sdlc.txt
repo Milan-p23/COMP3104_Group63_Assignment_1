@@ -1,0 +1,12 @@
+SDLC and the Importance of DevOps
+The Software Development Life Cycle (SDLC) consists of several critical phases: planning, development, testing, deployment, and
+maintenance. Each phase plays a vital role in ensuring the successful delivery of software products.
+
+1. Phases of SDLC:
+
+Planning: This phase involves defining the project scope, requirements, and objectives. It sets the foundation for the entire development process.
+Development: In this phase, the actual coding takes place. Developers implement the functionalities outlined in the planning phase.
+Testing: Testing is crucial for identifying bugs and ensuring the software meets quality standards. It involves various testing methods, including unit testing, integration testing, and user acceptance testing.
+Deployment: Once testing is complete, the software is deployed to a production environment where it becomes accessible to users.
+Maintenance: After deployment, the software enters the maintenance phase, where it is updated, patched, and improved based on user feedback and changing requirements.
+

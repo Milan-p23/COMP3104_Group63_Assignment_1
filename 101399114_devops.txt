@@ -1,0 +1,8 @@
+Introduction to COMP 3104 - DevOps:
+
+COMP 3104 focuses on the core principles and practices of DevOps, which aims to enhance collaboration between development and operations teams to deliver high-quality software 
+more efficiently. The course covers essential concepts such as continuous integration (CI), continuous delivery (CD), and infrastructure as code (IaC), 
+emphasizing their role in automating software deployment, testing, and monitoring. Students will explore a range of popular tools and frameworks, 
+including Jenkins, Docker, Kubernetes, and Terraform, to gain hands-on experience in automating deployment pipelines and managing cloud infrastructure. 
+The curriculum also addresses key methodologies, such as Agile and Lean, that align with DevOps practices to foster a 
+culture of continuous improvement and rapid iteration.
