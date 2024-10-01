@@ -1,10 +1,18 @@
 George Brown College Information:
 
-George Brown College is located in Toronto and offers a variety of programs, including technology, health sciences, and business.
-The college has a strong focus on experiential learning and community engagement.
-The college has a diverse student body and offers a range of student services, including academic advising and career counseling.
-The college has a strong reputation for its programs in technology, health sciences, and business.
-The college has a range of facilities, including state-of-the-art labs and simulation centers.
-The college has a strong focus on experiential learning and community engagement, which provides students with
-hands on experience and opportunities to apply their skills in real-world settings.
+George Brown College, located in the heart of Toronto, is a leading post-secondary institution that offers a 
+diverse array of programs across various fields, including technology, health sciences, business, arts, and 
+hospitality. The college is committed to fostering a dynamic learning environment that emphasizes 
+experiential learning, allowing students to gain practical, hands-on experience that prepares them for 
+the workforce.
 
+With a strong focus on community engagement, George Brown College collaborates with local industries and 
+organizations to provide students with opportunities to apply their skills in real-world settings. 
+This engagement not only enriches the educational experience but also strengthens the college's ties to the 
+community, ensuring that students graduate with relevant skills that meet the needs of employers.
+
+The college boasts a diverse and inclusive student body, creating a vibrant campus culture where students 
+from various backgrounds can thrive. To support their academic and career journeys, George Brown College 
+offers a comprehensive range of student services, including academic advising, career counseling, tutoring, 
+and mental health resources. These services are designed to help students succeed academically and 
+personally.
