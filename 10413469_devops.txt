@@ -21,3 +21,7 @@ Collaborative Mindset: A strong appreciation for the importance of collaboration
 
 Industry-Relevant Skills:
 To ensure the curriculum remains aligned with industry demands, guest speakers from leading tech companies will be invited to share insights on current trends and best practices in DevOps. This exposure will provide students with a real-world perspective on the skills and competencies required in the job market.
+
+Learning Resources:
+Students will have access to a wide range of learning resources, including online tutorials, case studies, and a curated selection of articles and books that focus on DevOps principles. Additionally, the course will incorporate hands-on lab sessions where students can practice using the tools and techniques discussed 
+in class, reinforcing their learning through practical application.
