@@ -51,3 +51,9 @@ It encourages collaboration between teams, fostering a culture of open communica
 DevOps practices also emphasize automation, reducing the risk of human error and increasing efficiency.
 By adopting DevOps principles, organizations can improve their software development and deployment processes, leading to faster time
 to market and increased customer satisfaction.
+
+DevOps is an essential methodology for developers to learn, providing tools and processes that streamline software delivery.
+By mastering DevOps, developers can improve collaboration, automation, continuous improvement, feedback, monitoring, and
+security in their software development process.
+In COMP 3104, students gain practical experience with DevOps tools and practices, preparing them for
+a career in software development and deployment.
