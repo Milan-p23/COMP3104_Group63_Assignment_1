@@ -10,3 +10,12 @@ SDLC Phases:
 •⁠  ⁠Planning: Identifying requirements and creating a roadmap.
 •⁠  ⁠Design: Architecting the solution.
 •⁠  ⁠Development: Writing the code.
+
+
+DevOps integrates with SDLC by automating testing and deployment in the later phases, such as testing and deployment.
+This integration enables faster and more reliable software delivery.
+DevOps also emphasizes collaboration between development and operations teams.
+This collaboration ensures that the software is deployable, maintainable, and scalable.
+DevOps tools such as Jenkins, Docker, and Kubernetes facilitate this integration and collaboration.
+These tools automate testing, deployment, and monitoring, making the software delivery process more efficient.
+
