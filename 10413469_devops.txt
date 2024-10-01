@@ -18,3 +18,6 @@ Understanding of DevOps Methodologies: Knowledge of key methodologies such as Ag
 Problem-Solving Skills: Enhanced problem-solving abilities, particularly in the context of system integration and deployment challenges, enabling students to navigate and resolve complex issues.
 
 Collaborative Mindset: A strong appreciation for the importance of collaboration and communication in software development and operations, preparing students to work effectively in team settings.
+
+Industry-Relevant Skills:
+To ensure the curriculum remains aligned with industry demands, guest speakers from leading tech companies will be invited to share insights on current trends and best practices in DevOps. This exposure will provide students with a real-world perspective on the skills and competencies required in the job market.
