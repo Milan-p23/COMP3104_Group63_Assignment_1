@@ -13,7 +13,7 @@ This automation ensures that code pushed to the repository is automatically vali
 
 The GitHub Actions workflow is designed to trigger automatically on every push to any branch, helping maintain a functional, conflict-free repository. Below is an example configuration found in the .github/workflows/ci.yml file:
 
-yaml
+```yaml
 name: GitHub Actions CI
 
 on: [push]
@@ -27,7 +27,7 @@ jobs:
         run: |
           echo "CI pipeline triggered for ${GITHUB_REF}"
           # Add additional commands for testing and building the project.
-
+```
 
 ## How It Works
 
