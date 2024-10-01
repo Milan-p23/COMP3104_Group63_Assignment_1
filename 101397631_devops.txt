@@ -45,3 +45,9 @@ By understanding DevOps principles and practices, developers can improve collabo
 monitoring, and security in their software development process.
 In COMP 3104, students gain hands-on experience with DevOps tools and practices, preparing them
 for a career in software development and deployment.
+
+DevOps culture promotes continuous improvement, ensuring that software evolves to meet user needs quickly.
+It encourages collaboration between teams, fostering a culture of open communication and shared goals.
+DevOps practices also emphasize automation, reducing the risk of human error and increasing efficiency.
+By adopting DevOps principles, organizations can improve their software development and deployment processes, leading to faster time
+to market and increased customer satisfaction.
